@@ -1,0 +1,54 @@
+[
+  {
+    "key": "heritage",
+    "category": "Heritage",
+    "tag": "HERITAGE · 2013 SOURCE",
+    "title": "A landmark of technical education",
+    "body": "A historic photograph of the school frontage records its name and distinctive crest. Explore the Cape Town Mapping Project for the school’s educational philosophy.",
+    "alt": "Oude Molen school building frontage and crest",
+    "image": "https://images.squarespace-cdn.com/content/v1/518b5bd2e4b0d1e7bd9bd171/1369923502383-BFVYC7BYGP88KUE9D04W/20130521_105517.jpg",
+    "source": "https://p-goldstein.squarespace.com/oude-molen-academy-of-science-technology",
+    "credit": "Cape Town Mapping Project; school frontage photograph.",
+    "fallback": "assets/images/heritage-source.svg",
+    "permission": "Pending; private concept review only; remote source image; no republication permission established."
+  },
+  {
+    "key": "energy",
+    "category": "Engineering",
+    "tag": "ENGINEERING · DECEMBER 2010",
+    "title": "Learning through renewable energy",
+    "body": "UCT News records an engineering education project involving Oude Molen and Oaklands learners, including practical models of wind-energy systems.",
+    "alt": "UCT IEEE and Oude Molen and Oaklands learners at a renewable energy installation at Oaklands",
+    "image": "https://www.news.uct.ac.za/images/archive/dailynews/2010/wind_turbine.jpg",
+    "source": "https://www.news.uct.ac.za/article/-2010-12-08-students-wind-up-power-supply",
+    "credit": "UCT News, 8 December 2010. Multi-school event at Oaklands, not the Oude Molen campus.",
+    "fallback": "assets/images/energy-source.svg",
+    "permission": "Pending; private concept review only; remote source image; no republication permission established."
+  },
+  {
+    "key": "community",
+    "category": "School life",
+    "tag": "SCHOOL LIFE · PROFILE PHOTO",
+    "title": "Learning together",
+    "body": "The school’s public A Better Africa profile describes practical STEM education and a broad range of cultural and sporting activities.",
+    "alt": "Audience of learners in an auditorium, as shown in the Oude Molen public school profile",
+    "image": "https://a-better-africa.com/show/oude-molen-hts-cape-town-western-cape/wiki-image/WhatsApp-Image-2019-07-16-at-19.50.08-1024x768.jpeg",
+    "source": "https://a-better-africa.com/show/oude-molen-hts-cape-town-western-cape",
+    "credit": "A Better Africa school profile. Exact venue and event not independently verified.",
+    "fallback": "assets/images/community-source.svg",
+    "permission": "Pending; private concept review only; remote source image; no republication permission established."
+  },
+  {
+    "key": "workshops",
+    "category": "Engineering",
+    "tag": "TECHNICAL EDUCATION · SCHOOL GRAPHIC",
+    "title": "Skilled minds. Strong futures.",
+    "body": "The school promotes six workshops and a CAD learning environment. This promotional composite introduces the technical disciplines.",
+    "alt": "Official school-hosted workshop promotional composite, not independently verified documentary photography",
+    "image": "https://www.oudemolen.org.za/wp-content/uploads/2026/10/Workshop-Banner-v2.jpeg",
+    "source": "https://www.oudemolen.org.za/",
+    "credit": "School website: promotional artwork; individual photographs are not verified as Oude Molen learners.",
+    "fallback": "assets/images/workshops-source.svg",
+    "permission": "Pending; private concept review only; remote source image; no republication permission established."
+  }
+]

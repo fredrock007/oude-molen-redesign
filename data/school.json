@@ -1,0 +1,25 @@
+{
+  "name": "Oude Molen Technical High School",
+  "motto": "Docere Mentem Manumque",
+  "established": 1961,
+  "grades": "8–12",
+  "medium": "English",
+  "learners": 850,
+  "technical_subjects": 7,
+  "workshops": 6,
+  "engineering_graphics_classrooms": 4,
+  "cad_labs": 1,
+  "sports_houses": 4,
+  "address": "15 Jan Smuts Drive, Pinelands, Cape Town, 7405",
+  "phone": "021 531 2108",
+  "email": "admin@oudemolen.org.za",
+  "alternate_email": "info@oudemolen.org.za",
+  "source": "https://www.oudemolen.org.za/",
+  "colour_note": "Design palette based on approved crest; not an official colour manual",
+  "palette": {
+    "navy": "#142B4D",
+    "gold": "#F7CC29",
+    "red": "#C92335",
+    "blue": "#ACC5D4"
+  }
+}
